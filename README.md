@@ -6,7 +6,7 @@ With this script you can resize the comment container to every width. This is a 
 
 ## Installation
 1. Install Tampermonkey as plugin for your browser.
-2. Install the p0weruser script (https://github.com/FlorianMaak/p0weruser.
+2. Install the p0weruser script (https://github.com/FlorianMaak/p0weruser).
 3. Install my userscript from here :
 
       https://github.com/Sh4der/pr0gramm-comments-resize/raw/master/pr0gramm-comments-resize.user.js
