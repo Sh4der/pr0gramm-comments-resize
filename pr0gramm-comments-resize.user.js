@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         pr0gramm-comments-resize
 // @namespace    http://pr0gramm.com/user/Lukariuss
-// @version      1.0.0
+// @version      1.0.1
 // @description  resize Comments
 // @icon         https://pr0gramm.com/media/pr0gramm-favicon.png
 // @author       Lukariuss/Sh4der
@@ -13,8 +13,6 @@
 
 
 function init(){
-
-    $(".comments-switch").hide();
 
     var commentCount;
     var itemComments;
@@ -40,6 +38,7 @@ function init(){
 
     function refreshElements()
     {
+        removeOldButton();
         commentCount = $(".comment-count").get(0);
         itemComments = $(".item-comments").get(0);
 
@@ -63,6 +62,11 @@ function init(){
     function stopResize(e) {
         window.removeEventListener('mousemove', Resize, false);
         window.removeEventListener('mouseup', stopResize, false);
+    }
+
+    function removeOldButton()
+    {
+        $(".comments-switch").hide();
     }
 }
 
