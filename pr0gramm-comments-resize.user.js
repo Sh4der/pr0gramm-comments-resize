@@ -7,6 +7,7 @@
 // @match        http://pr0gramm.com/*
 // @match        https://pr0gramm.com/*
 // @grant        none
+// @updateURL    https://github.com/Sh4der/pr0gramm-comments-resize/raw/master/pr0gramm-comments-resize.user.js
 // ==/UserScript==
 
 
