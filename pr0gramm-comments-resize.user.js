@@ -3,7 +3,7 @@
 // @namespace    http://pr0gramm.com/user/Lukariuss
 // @version      1.0.0
 // @description  resize Comments
-// @author       Lukariuss
+// @author       Lukariuss/Sh4der
 // @match        http://pr0gramm.com/*
 // @match        https://pr0gramm.com/*
 // @grant        none
