@@ -1,3 +1,4 @@
+![logo](https://pr0gramm.com/media/pr0gramm-favicon.png)
 # pr0gramm-comments-resize
 With this script you can resize the comment container to every width. This is a addon for the p0weruser userscript.
 
