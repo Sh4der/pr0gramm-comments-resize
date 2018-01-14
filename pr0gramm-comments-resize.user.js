@@ -3,6 +3,7 @@
 // @namespace    http://pr0gramm.com/user/Lukariuss
 // @version      1.0.0
 // @description  resize Comments
+// @icon		https://pr0gramm.com/media/pr0gramm-favicon.png
 // @author       Lukariuss/Sh4der
 // @match        http://pr0gramm.com/*
 // @match        https://pr0gramm.com/*
